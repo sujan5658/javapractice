@@ -98,6 +98,8 @@ public class StudentV2 extends Student implements ActionListener {
         add(txt_avg);
         add(lbl_result);
         add(txt_result);
+        add(btn_save);
+        add(btn_close);
         setVisible(true);
     }
     public StudentV2(){
